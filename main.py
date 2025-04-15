@@ -4,7 +4,7 @@ from telebot import types
 
 keep_alive()
 
-BOT_TOKEN = "7720301240:AAFel6vYcjnleBPdIIZ3A2L9Dpy-Zghk0dk"
+BOT_TOKEN = "1234567890:AAEvCFjiF5FbJBf7ekXsjRtzC5oUEh8O9kI"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 users_data = {}
