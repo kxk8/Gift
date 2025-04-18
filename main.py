@@ -5,7 +5,7 @@ from telebot import types
 keep_alive()
 
 import os
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = '8174313679:AAE7EISbz6HlH1W6P9O99TluP7WXUgw8MUc'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 users_data = {}
