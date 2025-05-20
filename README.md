@@ -24,4 +24,4 @@
 
 1. جهّز ملف `.env` في نفس المجلد، واكتب بداخله:
 ```env
-BOT_TOKEN=توكن_البوت_هنا
+BOT_TOKEN=8174313679:AAE7EISbz6HlH1W6P9O99TluP7WXUgw8MUc
